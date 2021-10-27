@@ -1,0 +1,2800 @@
+data/rawdata/audio\open\20210524-165927 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165927 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165927 - Copy.wav	0
+data/rawdata/audio\open\20210524-165927.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165928 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165928 - Copy.wav	0
+data/rawdata/audio\open\20210524-165928.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165929 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165929 - Copy.wav	0
+data/rawdata/audio\open\20210524-165929.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165930 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165930 - Copy.wav	0
+data/rawdata/audio\open\20210524-165930.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165931 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165931 - Copy.wav	0
+data/rawdata/audio\open\20210524-165931.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165932 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165932 - Copy.wav	0
+data/rawdata/audio\open\20210524-165932.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165933 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165933 - Copy.wav	0
+data/rawdata/audio\open\20210524-165933.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165934 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165934 - Copy.wav	0
+data/rawdata/audio\open\20210524-165934.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165935 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165935 - Copy.wav	0
+data/rawdata/audio\open\20210524-165935.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165936 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165936 - Copy.wav	0
+data/rawdata/audio\open\20210524-165936.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165937 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165937 - Copy.wav	0
+data/rawdata/audio\open\20210524-165937.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165938 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165938 - Copy.wav	0
+data/rawdata/audio\open\20210524-165938.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165939 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165939 - Copy.wav	0
+data/rawdata/audio\open\20210524-165939.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165940 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165940 - Copy.wav	0
+data/rawdata/audio\open\20210524-165940.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165941 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165941 - Copy.wav	0
+data/rawdata/audio\open\20210524-165941.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (5) - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (5).wav	0
+data/rawdata/audio\open\20210524-165942 - Copy (6) - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165942 - Copy.wav	0
+data/rawdata/audio\open\20210524-165942.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165943 - Copy (3) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165943 - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy (2) - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy (4) - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165943 - Copy.wav	0
+data/rawdata/audio\open\20210524-165943.wav	0
+data/rawdata/audio\open\20210524-165944 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165944 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165944 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165944 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165944 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165944 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165944 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165944 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165944 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165944 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165944 - Copy.wav	0
+data/rawdata/audio\open\20210524-165944.wav	0
+data/rawdata/audio\open\20210524-165945 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165945 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165945 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165945 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165945 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165945 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165945 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165945 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165945 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165945 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165945 - Copy.wav	0
+data/rawdata/audio\open\20210524-165945.wav	0
+data/rawdata/audio\open\20210524-165946 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165946 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165946 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165946 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165946 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165946 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165946 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165946 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165946 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165946 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165946 - Copy.wav	0
+data/rawdata/audio\open\20210524-165946.wav	0
+data/rawdata/audio\open\20210524-165947 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165947 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165947 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165947 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165947 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165947 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165947 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165947 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165947 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165947 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165947 - Copy.wav	0
+data/rawdata/audio\open\20210524-165947.wav	0
+data/rawdata/audio\open\20210524-165948 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165948 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165948 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165948 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165948 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165948 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165948 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165948 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165948 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165948 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165948 - Copy.wav	0
+data/rawdata/audio\open\20210524-165948.wav	0
+data/rawdata/audio\open\20210524-165949 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165949 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165949 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165949 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165949 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165949 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165949 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165949 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165949 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165949 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165949 - Copy.wav	0
+data/rawdata/audio\open\20210524-165949.wav	0
+data/rawdata/audio\open\20210524-165950 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165950 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165950 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165950 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165950 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165950 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165950 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165950 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165950 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165950 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165950 - Copy.wav	0
+data/rawdata/audio\open\20210524-165950.wav	0
+data/rawdata/audio\open\20210524-165951 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165951 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165951 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165951 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165951 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165951 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165951 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165951 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165951 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165951 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165951 - Copy.wav	0
+data/rawdata/audio\open\20210524-165951.wav	0
+data/rawdata/audio\open\20210524-165952 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165952 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165952 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165952 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165952 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165952 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165952 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165952 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165952 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165952 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165952 - Copy.wav	0
+data/rawdata/audio\open\20210524-165952.wav	0
+data/rawdata/audio\open\20210524-165953 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165953 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165953 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165953 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165953 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165953 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165953 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165953 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165953 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165953 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165953 - Copy.wav	0
+data/rawdata/audio\open\20210524-165953.wav	0
+data/rawdata/audio\open\20210524-165954 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165954 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165954 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165954 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165954 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165954 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165954 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165954 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165954 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165954 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165954 - Copy.wav	0
+data/rawdata/audio\open\20210524-165954.wav	0
+data/rawdata/audio\open\20210524-165955 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165955 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165955 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165955 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165955 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165955 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165955 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165955 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165955 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165955 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165955 - Copy.wav	0
+data/rawdata/audio\open\20210524-165955.wav	0
+data/rawdata/audio\open\20210524-165956 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165956 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165956 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165956 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165956 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165956 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165956 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165956 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165956 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165956 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165956 - Copy.wav	0
+data/rawdata/audio\open\20210524-165956.wav	0
+data/rawdata/audio\open\20210524-165957 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165957 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165957 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165957 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165957 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165957 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165957 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165957 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165957 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165957 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165957 - Copy.wav	0
+data/rawdata/audio\open\20210524-165957.wav	0
+data/rawdata/audio\open\20210524-165958 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165958 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165958 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165958 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165958 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165958 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165958 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165958 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165958 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165958 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165958 - Copy.wav	0
+data/rawdata/audio\open\20210524-165958.wav	0
+data/rawdata/audio\open\20210524-165959 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165959 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165959 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-165959 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165959 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-165959 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-165959 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-165959 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-165959 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165959 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-165959 - Copy.wav	0
+data/rawdata/audio\open\20210524-165959.wav	0
+data/rawdata/audio\open\20210524-170000 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170000 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170000 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170000 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170000 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170000 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170000 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170000 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170000 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170000 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170000 - Copy.wav	0
+data/rawdata/audio\open\20210524-170000.wav	0
+data/rawdata/audio\open\20210524-170001 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170001 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170001 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170001 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170001 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170001 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170001 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170001 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170001 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170001 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170001 - Copy.wav	0
+data/rawdata/audio\open\20210524-170001.wav	0
+data/rawdata/audio\open\20210524-170002 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170002 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170002 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170002 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170002 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170002 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170002 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170002 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170002 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170002 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170002 - Copy.wav	0
+data/rawdata/audio\open\20210524-170002.wav	0
+data/rawdata/audio\open\20210524-170003 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170003 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170003 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170003 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170003 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170003 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170003 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170003 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170003 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170003 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170003 - Copy.wav	0
+data/rawdata/audio\open\20210524-170003.wav	0
+data/rawdata/audio\open\20210524-170004 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170004 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170004 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170004 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170004 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170004 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170004 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170004 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170004 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170004 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170004 - Copy.wav	0
+data/rawdata/audio\open\20210524-170004.wav	0
+data/rawdata/audio\open\20210524-170005 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170005 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170005 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170005 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170005 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170005 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170005 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170005 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170005 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170005 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170005 - Copy.wav	0
+data/rawdata/audio\open\20210524-170005.wav	0
+data/rawdata/audio\open\20210524-170006 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170006 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170006 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170006 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170006 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170006 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170006 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170006 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170006 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170006 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170006 - Copy.wav	0
+data/rawdata/audio\open\20210524-170006.wav	0
+data/rawdata/audio\open\20210524-170007 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170007 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170007 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170007 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170007 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170007 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170007 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170007 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170007 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170007 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170007 - Copy.wav	0
+data/rawdata/audio\open\20210524-170007.wav	0
+data/rawdata/audio\open\20210524-170008 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170008 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170008 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170008 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170008 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170008 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170008 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170008 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170008 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170008 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170008 - Copy.wav	0
+data/rawdata/audio\open\20210524-170008.wav	0
+data/rawdata/audio\open\20210524-170009 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170009 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170009 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170009 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170009 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170009 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170009 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170009 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170009 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170009 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170009 - Copy.wav	0
+data/rawdata/audio\open\20210524-170009.wav	0
+data/rawdata/audio\open\20210524-170010 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170010 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170010 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170010 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170010 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170010 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170010 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170010 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170010 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170010 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170010 - Copy.wav	0
+data/rawdata/audio\open\20210524-170010.wav	0
+data/rawdata/audio\open\20210524-170011 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170011 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170011 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170011 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170011 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170011 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170011 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170011 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170011 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170011 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170011 - Copy.wav	0
+data/rawdata/audio\open\20210524-170011.wav	0
+data/rawdata/audio\open\20210524-170012 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170012 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170012 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170012 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170012 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170012 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170012 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170012 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170012 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170012 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170012 - Copy.wav	0
+data/rawdata/audio\open\20210524-170012.wav	0
+data/rawdata/audio\open\20210524-170013 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170013 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170013 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170013 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170013 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170013 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170013 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170013 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170013 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170013 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170013 - Copy.wav	0
+data/rawdata/audio\open\20210524-170013.wav	0
+data/rawdata/audio\open\20210524-170014 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170014 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170014 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170014 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170014 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170014 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170014 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170014 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170014 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170014 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170014 - Copy.wav	0
+data/rawdata/audio\open\20210524-170014.wav	0
+data/rawdata/audio\open\20210524-170015 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170015 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170015 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170015 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170015 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170015 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170015 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170015 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170015 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170015 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170015 - Copy.wav	0
+data/rawdata/audio\open\20210524-170015.wav	0
+data/rawdata/audio\open\20210524-170016 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170016 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170016 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170016 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170016 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170016 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170016 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170016 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170016 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170016 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170016 - Copy.wav	0
+data/rawdata/audio\open\20210524-170016.wav	0
+data/rawdata/audio\open\20210524-170017 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170017 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170017 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170017 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170017 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170017 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170017 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170017 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170017 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170017 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170017 - Copy.wav	0
+data/rawdata/audio\open\20210524-170017.wav	0
+data/rawdata/audio\open\20210524-170018 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170018 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170018 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170018 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170018 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170018 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170018 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170018 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170018 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170018 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170018 - Copy.wav	0
+data/rawdata/audio\open\20210524-170018.wav	0
+data/rawdata/audio\open\20210524-170019 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170019 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170019 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170019 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170019 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170019 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170019 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170019 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170019 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170019 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170019 - Copy.wav	0
+data/rawdata/audio\open\20210524-170019.wav	0
+data/rawdata/audio\open\20210524-170020 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170020 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170020 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170020 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170020 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170020 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170020 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170020 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170020 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170020 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170020 - Copy.wav	0
+data/rawdata/audio\open\20210524-170020.wav	0
+data/rawdata/audio\open\20210524-170021 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170021 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170021 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170021 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170021 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170021 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170021 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170021 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170021 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170021 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170021 - Copy.wav	0
+data/rawdata/audio\open\20210524-170021.wav	0
+data/rawdata/audio\open\20210524-170022 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170022 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170022 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170022 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170022 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170022 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170022 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170022 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170022 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170022 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170022 - Copy.wav	0
+data/rawdata/audio\open\20210524-170022.wav	0
+data/rawdata/audio\open\20210524-170023 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170023 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170023 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170023 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170023 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170023 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170023 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170023 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170023 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170023 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170023 - Copy.wav	0
+data/rawdata/audio\open\20210524-170023.wav	0
+data/rawdata/audio\open\20210524-170024 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170024 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170024 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170024 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170024 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170024 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170024 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170024 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170024 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170024 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170024 - Copy.wav	0
+data/rawdata/audio\open\20210524-170024.wav	0
+data/rawdata/audio\open\20210524-170025 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170025 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170025 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170025 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170025 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170025 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170025 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170025 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170025 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170025 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170025 - Copy.wav	0
+data/rawdata/audio\open\20210524-170025.wav	0
+data/rawdata/audio\open\20210524-170026 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170026 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170026 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170026 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170026 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170026 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170026 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170026 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170026 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170026 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170026 - Copy.wav	0
+data/rawdata/audio\open\20210524-170026.wav	0
+data/rawdata/audio\open\20210524-170027 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170027 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170027 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170027 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170027 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170027 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170027 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170027 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170027 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170027 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170027 - Copy.wav	0
+data/rawdata/audio\open\20210524-170027.wav	0
+data/rawdata/audio\open\20210524-170028 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170028 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170028 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170028 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170028 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170028 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170028 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170028 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170028 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170028 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170028 - Copy.wav	0
+data/rawdata/audio\open\20210524-170028.wav	0
+data/rawdata/audio\open\20210524-170029 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170029 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170029 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170029 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170029 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170029 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170029 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170029 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170029 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170029 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170029 - Copy.wav	0
+data/rawdata/audio\open\20210524-170029.wav	0
+data/rawdata/audio\open\20210524-170030 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170030 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170030 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170030 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170030 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170030 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170030 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170030 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170030 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170030 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170030 - Copy.wav	0
+data/rawdata/audio\open\20210524-170030.wav	0
+data/rawdata/audio\open\20210524-170031 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170031 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170031 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170031 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170031 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170031 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170031 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170031 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170031 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170031 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170031 - Copy.wav	0
+data/rawdata/audio\open\20210524-170031.wav	0
+data/rawdata/audio\open\20210524-170032 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170032 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170032 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170032 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170032 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170032 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170032 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170032 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170032 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170032 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170032 - Copy.wav	0
+data/rawdata/audio\open\20210524-170032.wav	0
+data/rawdata/audio\open\20210524-170033 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170033 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170033 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170033 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170033 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170033 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170033 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170033 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170033 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170033 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170033 - Copy.wav	0
+data/rawdata/audio\open\20210524-170033.wav	0
+data/rawdata/audio\open\20210524-170034 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170034 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170034 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170034 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170034 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170034 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170034 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170034 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170034 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170034 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170034 - Copy.wav	0
+data/rawdata/audio\open\20210524-170034.wav	0
+data/rawdata/audio\open\20210524-170035 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170035 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170035 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170035 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170035 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170035 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170035 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170035 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170035 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170035 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170035 - Copy.wav	0
+data/rawdata/audio\open\20210524-170035.wav	0
+data/rawdata/audio\open\20210524-170036 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170036 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170036 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170036 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170036 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170036 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170036 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170036 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170036 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170036 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170036 - Copy.wav	0
+data/rawdata/audio\open\20210524-170036.wav	0
+data/rawdata/audio\open\20210524-170037 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170037 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170037 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170037 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170037 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170037 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170037 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170037 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170037 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170037 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170037 - Copy.wav	0
+data/rawdata/audio\open\20210524-170037.wav	0
+data/rawdata/audio\open\20210524-170038 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170038 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170038 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170038 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170038 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170038 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170038 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170038 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170038 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170038 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170038 - Copy.wav	0
+data/rawdata/audio\open\20210524-170038.wav	0
+data/rawdata/audio\open\20210524-170039 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170039 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170039 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170039 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170039 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170039 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170039 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170039 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170039 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170039 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170039 - Copy.wav	0
+data/rawdata/audio\open\20210524-170039.wav	0
+data/rawdata/audio\open\20210524-170040 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170040 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170040 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170040 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170040 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170040 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170040 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170040 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170040 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170040 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170040 - Copy.wav	0
+data/rawdata/audio\open\20210524-170040.wav	0
+data/rawdata/audio\open\20210524-170041 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170041 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170041 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170041 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170041 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170041 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170041 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170041 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170041 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170041 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170041 - Copy.wav	0
+data/rawdata/audio\open\20210524-170041.wav	0
+data/rawdata/audio\open\20210524-170042 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170042 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170042 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170042 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170042 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170042 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170042 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170042 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170042 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170042 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170042 - Copy.wav	0
+data/rawdata/audio\open\20210524-170042.wav	0
+data/rawdata/audio\open\20210524-170043 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170043 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170043 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170043 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170043 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170043 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170043 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170043 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170043 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170043 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170043 - Copy.wav	0
+data/rawdata/audio\open\20210524-170043.wav	0
+data/rawdata/audio\open\20210524-170044 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170044 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170044 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170044 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170044 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170044 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170044 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170044 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170044 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170044 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170044 - Copy.wav	0
+data/rawdata/audio\open\20210524-170044.wav	0
+data/rawdata/audio\open\20210524-170045 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170045 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170045 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170045 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170045 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170045 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170045 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170045 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170045 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170045 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170045 - Copy.wav	0
+data/rawdata/audio\open\20210524-170045.wav	0
+data/rawdata/audio\open\20210524-170046 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170046 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170046 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170046 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170046 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170046 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170046 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170046 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170046 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170046 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170046 - Copy.wav	0
+data/rawdata/audio\open\20210524-170046.wav	0
+data/rawdata/audio\open\20210524-170047 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170047 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170047 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170047 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170047 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170047 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170047 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170047 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170047 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170047 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170047 - Copy.wav	0
+data/rawdata/audio\open\20210524-170047.wav	0
+data/rawdata/audio\open\20210524-170048 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170048 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170048 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170048 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170048 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170048 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170048 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170048 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170048 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170048 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170048 - Copy.wav	0
+data/rawdata/audio\open\20210524-170048.wav	0
+data/rawdata/audio\open\20210524-170049 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170049 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170049 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170049 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170049 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170049 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170049 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170049 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170049 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170049 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170049 - Copy.wav	0
+data/rawdata/audio\open\20210524-170049.wav	0
+data/rawdata/audio\open\20210524-170050 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170050 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170050 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170050 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170050 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170050 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170050 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170050 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170050 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170050 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170050 - Copy.wav	0
+data/rawdata/audio\open\20210524-170050.wav	0
+data/rawdata/audio\open\20210524-170051 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170051 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170051 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170051 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170051 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170051 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170051 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170051 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170051 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170051 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170051 - Copy.wav	0
+data/rawdata/audio\open\20210524-170051.wav	0
+data/rawdata/audio\open\20210524-170052 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170052 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170052 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170052 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170052 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170052 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170052 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170052 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170052 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170052 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170052 - Copy.wav	0
+data/rawdata/audio\open\20210524-170052.wav	0
+data/rawdata/audio\open\20210524-170053 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170053 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170053 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170053 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170053 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170053 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170053 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170053 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170053 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170053 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170053 - Copy.wav	0
+data/rawdata/audio\open\20210524-170053.wav	0
+data/rawdata/audio\open\20210524-170054 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170054 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170054 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170054 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170054 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170054 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170054 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170054 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170054 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170054 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170054 - Copy.wav	0
+data/rawdata/audio\open\20210524-170054.wav	0
+data/rawdata/audio\open\20210524-170055 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170055 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170055 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170055 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170055 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170055 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170055 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170055 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170055 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170055 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170055 - Copy.wav	0
+data/rawdata/audio\open\20210524-170055.wav	0
+data/rawdata/audio\open\20210524-170056 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170056 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170056 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170056 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170056 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170056 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170056 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170056 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170056 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170056 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170056 - Copy.wav	0
+data/rawdata/audio\open\20210524-170056.wav	0
+data/rawdata/audio\open\20210524-170057 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170057 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170057 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170057 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170057 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170057 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170057 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170057 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170057 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170057 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170057 - Copy.wav	0
+data/rawdata/audio\open\20210524-170057.wav	0
+data/rawdata/audio\open\20210524-170058 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170058 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170058 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170058 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170058 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170058 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170058 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170058 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170058 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170058 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170058 - Copy.wav	0
+data/rawdata/audio\open\20210524-170058.wav	0
+data/rawdata/audio\open\20210524-170059 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170059 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170059 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170059 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170059 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170059 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170059 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170059 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170059 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170059 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170059 - Copy.wav	0
+data/rawdata/audio\open\20210524-170059.wav	0
+data/rawdata/audio\open\20210524-170100 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170100 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170100 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170100 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170100 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170100 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170100 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170100 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170100 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170100 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170100 - Copy.wav	0
+data/rawdata/audio\open\20210524-170100.wav	0
+data/rawdata/audio\open\20210524-170101 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170101 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170101 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170101 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170101 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170101 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170101 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170101 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170101 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170101 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170101 - Copy.wav	0
+data/rawdata/audio\open\20210524-170101.wav	0
+data/rawdata/audio\open\20210524-170102 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170102 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170102 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170102 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170102 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170102 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170102 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170102 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170102 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170102 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170102 - Copy.wav	0
+data/rawdata/audio\open\20210524-170102.wav	0
+data/rawdata/audio\open\20210524-170103 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170103 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170103 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170103 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170103 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170103 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170103 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170103 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170103 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170103 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170103 - Copy.wav	0
+data/rawdata/audio\open\20210524-170103.wav	0
+data/rawdata/audio\open\20210524-170104 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170104 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170104 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170104 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170104 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170104 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170104 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170104 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170104 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170104 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170104 - Copy.wav	0
+data/rawdata/audio\open\20210524-170104.wav	0
+data/rawdata/audio\open\20210524-170105 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170105 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170105 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170105 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170105 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170105 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170105 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170105 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170105 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170105 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170105 - Copy.wav	0
+data/rawdata/audio\open\20210524-170105.wav	0
+data/rawdata/audio\open\20210524-170106 - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170106 - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170106 - Copy (3) - Copy.wav	0
+data/rawdata/audio\open\20210524-170106 - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170106 - Copy (4).wav	0
+data/rawdata/audio\open\20210524-170106 - Copy - Copy (2) - Copy.wav	0
+data/rawdata/audio\open\20210524-170106 - Copy - Copy (2).wav	0
+data/rawdata/audio\open\20210524-170106 - Copy - Copy (3).wav	0
+data/rawdata/audio\open\20210524-170106 - Copy - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170106 - Copy - Copy.wav	0
+data/rawdata/audio\open\20210524-170106 - Copy.wav	0
+data/rawdata/audio\open\20210524-170106.wav	0
+data/rawdata/audio\rotate\20210524-170137 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170137 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170137.wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170138 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170138.wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170139 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170139.wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170140 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170140.wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170141 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170141.wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170142 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170142.wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170143 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170143.wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170144 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170144.wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170145 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170145.wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170146 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170146.wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170147 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170147.wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170148 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170148.wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170149 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170149.wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170150 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170150.wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170151 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170151.wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170152 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170152.wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170153 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170153.wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170154 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170154.wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170155 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170155.wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170156 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170156.wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170157 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170157.wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170158 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170158.wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170159 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170159.wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170200 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170200.wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170201 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170201.wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170202 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170202.wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170203 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170203.wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170204 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170204.wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170205 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170205.wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170207 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170207.wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170208 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170208.wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170209 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170209.wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy (3) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy (4) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy (4).wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170210 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170210.wav	1
+data/rawdata/audio\rotate\20210524-170211 - Copy (2) - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170211 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170211 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170211 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170211 - Copy - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170211 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170211 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170211.wav	1
+data/rawdata/audio\rotate\20210524-170212 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170212 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170212 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170212 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170212 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170212.wav	1
+data/rawdata/audio\rotate\20210524-170213 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170213 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170213 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170213 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170213 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170213.wav	1
+data/rawdata/audio\rotate\20210524-170214 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170214 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170214 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170214 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170214 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170214.wav	1
+data/rawdata/audio\rotate\20210524-170215 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170215 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170215 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170215 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170215 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170215.wav	1
+data/rawdata/audio\rotate\20210524-170216 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170216 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170216 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170216 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170216 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170216.wav	1
+data/rawdata/audio\rotate\20210524-170217 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170217 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170217 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170217 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170217 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170217.wav	1
+data/rawdata/audio\rotate\20210524-170218 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170218 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170218 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170218 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170218 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170218.wav	1
+data/rawdata/audio\rotate\20210524-170219 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170219 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170219 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170219 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170219 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170219.wav	1
+data/rawdata/audio\rotate\20210524-170220 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170220 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170220 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170220 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170220 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170220.wav	1
+data/rawdata/audio\rotate\20210524-170221 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170221 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170221 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170221 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170221 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170221.wav	1
+data/rawdata/audio\rotate\20210524-170222 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170222 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170222 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170222 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170222 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170222.wav	1
+data/rawdata/audio\rotate\20210524-170223 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170223 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170223 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170223 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170223 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170223.wav	1
+data/rawdata/audio\rotate\20210524-170224 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170224 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170224 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170224 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170224 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170224.wav	1
+data/rawdata/audio\rotate\20210524-170225 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170225 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170225 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170225 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170225 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170225.wav	1
+data/rawdata/audio\rotate\20210524-170226 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170226 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170226 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170226 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170226 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170226.wav	1
+data/rawdata/audio\rotate\20210524-170227 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170227 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170227 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170227 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170227 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170227.wav	1
+data/rawdata/audio\rotate\20210524-170228 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170228 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170228 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170228 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170228 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170228.wav	1
+data/rawdata/audio\rotate\20210524-170229 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170229 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170229 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170229 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170229 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170229.wav	1
+data/rawdata/audio\rotate\20210524-170230 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170230 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170230 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170230 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170230 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170230.wav	1
+data/rawdata/audio\rotate\20210524-170231 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170231 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170231 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170231 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170231 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170231.wav	1
+data/rawdata/audio\rotate\20210524-170232 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170232 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170232 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170232 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170232 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170232.wav	1
+data/rawdata/audio\rotate\20210524-170233 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170233 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170233 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170233 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170233 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170233.wav	1
+data/rawdata/audio\rotate\20210524-170234 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170234 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170234 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170234 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170234 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170234.wav	1
+data/rawdata/audio\rotate\20210524-170235 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170235 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170235 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170235 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170235 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170235.wav	1
+data/rawdata/audio\rotate\20210524-170236 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170236 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170236 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170236 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170236 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170236.wav	1
+data/rawdata/audio\rotate\20210524-170237 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170237 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170237 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170237 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170237 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170237.wav	1
+data/rawdata/audio\rotate\20210524-170238 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170238 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170238 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170238 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170238 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170238.wav	1
+data/rawdata/audio\rotate\20210524-170239 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170239 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170239 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170239 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170239 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170239.wav	1
+data/rawdata/audio\rotate\20210524-170240 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170240 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170240 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170240 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170240 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170240.wav	1
+data/rawdata/audio\rotate\20210524-170241 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170241 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170241 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170241 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170241 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170241.wav	1
+data/rawdata/audio\rotate\20210524-170242 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170242 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170242 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170242 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170242 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170242.wav	1
+data/rawdata/audio\rotate\20210524-170243 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170243 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170243 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170243 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170243 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170243.wav	1
+data/rawdata/audio\rotate\20210524-170244 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170244 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170244 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170244 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170244 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170244.wav	1
+data/rawdata/audio\rotate\20210524-170245 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170245 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170245 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170245 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170245 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170245.wav	1
+data/rawdata/audio\rotate\20210524-170246 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170246 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170246 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170246 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170246 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170246.wav	1
+data/rawdata/audio\rotate\20210524-170247 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170247 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170247 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170247 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170247 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170247.wav	1
+data/rawdata/audio\rotate\20210524-170248 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170248 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170248 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170248 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170248 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170248.wav	1
+data/rawdata/audio\rotate\20210524-170249 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170249 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170249 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170249 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170249 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170249.wav	1
+data/rawdata/audio\rotate\20210524-170250 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170250 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170250 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170250 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170250 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170250.wav	1
+data/rawdata/audio\rotate\20210524-170251 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170251 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170251 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170251 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170251 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170251.wav	1
+data/rawdata/audio\rotate\20210524-170252 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170252 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170252 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170252 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170252 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170252.wav	1
+data/rawdata/audio\rotate\20210524-170253 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170253 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170253 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170253 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170253 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170253.wav	1
+data/rawdata/audio\rotate\20210524-170254 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170254 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170254 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170254 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170254 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170254.wav	1
+data/rawdata/audio\rotate\20210524-170255 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170255 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170255 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170255 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170255 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170255.wav	1
+data/rawdata/audio\rotate\20210524-170256 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170256 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170256 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170256 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170256 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170256.wav	1
+data/rawdata/audio\rotate\20210524-170257 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170257 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170257 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170257 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170257 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170257.wav	1
+data/rawdata/audio\rotate\20210524-170258 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170258 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170258 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170258 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170258 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170258.wav	1
+data/rawdata/audio\rotate\20210524-170259 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170259 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170259 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170259 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170259 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170259.wav	1
+data/rawdata/audio\rotate\20210524-170300 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170300 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170300 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170300 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170300 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170300.wav	1
+data/rawdata/audio\rotate\20210524-170301 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170301 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170301 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170301 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170301 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170301.wav	1
+data/rawdata/audio\rotate\20210524-170302 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170302 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170302 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170302 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170302 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170302.wav	1
+data/rawdata/audio\rotate\20210524-170303 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170303 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170303 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170303 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170303 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170303.wav	1
+data/rawdata/audio\rotate\20210524-170304 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170304 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170304 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170304 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170304 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170304.wav	1
+data/rawdata/audio\rotate\20210524-170305 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170305 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170305 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170305 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170305 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170305.wav	1
+data/rawdata/audio\rotate\20210524-170306 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170306 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170306 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170306 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170306 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170306.wav	1
+data/rawdata/audio\rotate\20210524-170307 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170307 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170307 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170307 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170307 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170307.wav	1
+data/rawdata/audio\rotate\20210524-170308 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170308 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170308 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170308 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170308 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170308.wav	1
+data/rawdata/audio\rotate\20210524-170309 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170309 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170309 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170309 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170309 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170309.wav	1
+data/rawdata/audio\rotate\20210524-170310 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170310 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170310 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170310 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170310 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170310.wav	1
+data/rawdata/audio\rotate\20210524-170311 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170311 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170311 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170311 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170311 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170311.wav	1
+data/rawdata/audio\rotate\20210524-170312 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170312 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170312 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170312 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170312 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170312.wav	1
+data/rawdata/audio\rotate\20210524-170313 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170313 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170313 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170313 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170313 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170313.wav	1
+data/rawdata/audio\rotate\20210524-170314 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170314 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170314 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170314 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170314 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170314.wav	1
+data/rawdata/audio\rotate\20210524-170315 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170315 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170315 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170315 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170315 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170315.wav	1
+data/rawdata/audio\rotate\20210524-170316 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170316 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170316 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170316 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170316 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170316.wav	1
+data/rawdata/audio\rotate\20210524-170317 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170317 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-170317 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-170317 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170317 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-170317.wav	1
+data/rawdata/audio\rotate\20210524-193714 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193714 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193714 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193714 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193714 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193714.wav	1
+data/rawdata/audio\rotate\20210524-193715 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193715 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193715 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193715 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193715 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193715.wav	1
+data/rawdata/audio\rotate\20210524-193716 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193716 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193716 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193716 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193716 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193716.wav	1
+data/rawdata/audio\rotate\20210524-193717 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193717 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193717 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193717 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193717 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193717.wav	1
+data/rawdata/audio\rotate\20210524-193718 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193718 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193718 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193718 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193718 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193718.wav	1
+data/rawdata/audio\rotate\20210524-193719 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193719 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193719 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193719 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193719 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193719.wav	1
+data/rawdata/audio\rotate\20210524-193720 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193720 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193720 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193720 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193720 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193720.wav	1
+data/rawdata/audio\rotate\20210524-193721 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193721 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193721 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193721 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193721 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193721.wav	1
+data/rawdata/audio\rotate\20210524-193722 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193722 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193722 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193722 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193722 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193722.wav	1
+data/rawdata/audio\rotate\20210524-193723 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193723 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193723 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193723 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193723 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193723.wav	1
+data/rawdata/audio\rotate\20210524-193724 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193724 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193724 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193724 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193724 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193724.wav	1
+data/rawdata/audio\rotate\20210524-193725 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193725 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193725 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193725 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193725 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193725.wav	1
+data/rawdata/audio\rotate\20210524-193726 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193726 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193726 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193726 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193726 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193726.wav	1
+data/rawdata/audio\rotate\20210524-193727 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193727 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193727 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193727 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193727 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193727.wav	1
+data/rawdata/audio\rotate\20210524-193728 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193728 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193728 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193728 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193728 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193728.wav	1
+data/rawdata/audio\rotate\20210524-193729 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193729 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193729 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193729 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193729 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193729.wav	1
+data/rawdata/audio\rotate\20210524-193730 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193730 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193730 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193730 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193730 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193730.wav	1
+data/rawdata/audio\rotate\20210524-193731 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193731 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193731 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193731 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193731 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193731.wav	1
+data/rawdata/audio\rotate\20210524-193732 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193732 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193732 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193732 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193732 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193732.wav	1
+data/rawdata/audio\rotate\20210524-193733 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193733 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193733 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193733 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193733 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193733.wav	1
+data/rawdata/audio\rotate\20210524-193734 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193734 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193734 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193734 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193734 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193734.wav	1
+data/rawdata/audio\rotate\20210524-193735 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193735 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193735 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193735 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193735 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193735.wav	1
+data/rawdata/audio\rotate\20210524-193736 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193736 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193736 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193736 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193736 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193736.wav	1
+data/rawdata/audio\rotate\20210524-193737 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193737 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193737 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193737 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193737 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193737.wav	1
+data/rawdata/audio\rotate\20210524-193738 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193738 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193738 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193738 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193738 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193738.wav	1
+data/rawdata/audio\rotate\20210524-193739 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193739 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193739 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193739 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193739 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193739.wav	1
+data/rawdata/audio\rotate\20210524-193740 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193740 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193740 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193740 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193740 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193740.wav	1
+data/rawdata/audio\rotate\20210524-193741 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193741 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193741 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193741 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193741 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193741.wav	1
+data/rawdata/audio\rotate\20210524-193742 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193742 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193742 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193742 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193742 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193742.wav	1
+data/rawdata/audio\rotate\20210524-193743 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193743 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193743 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193743 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193743 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193743.wav	1
+data/rawdata/audio\rotate\20210524-193744 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193744 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193744 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193744 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193744 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193744.wav	1
+data/rawdata/audio\rotate\20210524-193745 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193745 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193745 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193745 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193745 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193745.wav	1
+data/rawdata/audio\rotate\20210524-193746 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193746 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193746 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193746 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193746 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193746.wav	1
+data/rawdata/audio\rotate\20210524-193747 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193747 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193747 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193747 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193747 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193747.wav	1
+data/rawdata/audio\rotate\20210524-193748 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193748 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193748 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193748 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193748 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193748.wav	1
+data/rawdata/audio\rotate\20210524-193749 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193749 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193749 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193749 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193749 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193749.wav	1
+data/rawdata/audio\rotate\20210524-193750 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193750 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193750 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193750 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193750 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193750.wav	1
+data/rawdata/audio\rotate\20210524-193751 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193751 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193751 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193751 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193751 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193751.wav	1
+data/rawdata/audio\rotate\20210524-193752 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193752 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193752 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193752 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193752 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193752.wav	1
+data/rawdata/audio\rotate\20210524-193753 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193753 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193753 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193753 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193753 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193753.wav	1
+data/rawdata/audio\rotate\20210524-193754 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193754 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193754 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193754 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193754 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193754.wav	1
+data/rawdata/audio\rotate\20210524-193755 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193755 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193755 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193755 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193755 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193755.wav	1
+data/rawdata/audio\rotate\20210524-193756 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193756 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193756 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193756 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193756 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193756.wav	1
+data/rawdata/audio\rotate\20210524-193757 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193757 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193757 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193757 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193757 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193757.wav	1
+data/rawdata/audio\rotate\20210524-193758 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193758 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193758 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193758 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193758 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193758.wav	1
+data/rawdata/audio\rotate\20210524-193759 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193759 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193759 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193759 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193759 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193759.wav	1
+data/rawdata/audio\rotate\20210524-193800 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193800 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193800 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193800 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193800 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193800.wav	1
+data/rawdata/audio\rotate\20210524-193801 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193801 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193801 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193801 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193801 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193801.wav	1
+data/rawdata/audio\rotate\20210524-193802 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193802 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193802 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193802 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193802 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193802.wav	1
+data/rawdata/audio\rotate\20210524-193803 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193803 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193803 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193803 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193803 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193803.wav	1
+data/rawdata/audio\rotate\20210524-193821 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193821 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193821 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193821 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193821 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193821.wav	1
+data/rawdata/audio\rotate\20210524-193822 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193822 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193822 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193822 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193822 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193822.wav	1
+data/rawdata/audio\rotate\20210524-193823 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193823 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193823 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193823 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193823 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193823.wav	1
+data/rawdata/audio\rotate\20210524-193824 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193824 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193824 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193824 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193824 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193824.wav	1
+data/rawdata/audio\rotate\20210524-193825 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193825 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193825 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193825 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193825 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193825.wav	1
+data/rawdata/audio\rotate\20210524-193826 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193826 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193826 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193826 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193826 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193826.wav	1
+data/rawdata/audio\rotate\20210524-193827 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193827 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193827 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193827 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193827 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193827.wav	1
+data/rawdata/audio\rotate\20210524-193828 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193828 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193828 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193828 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193828 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193828.wav	1
+data/rawdata/audio\rotate\20210524-193829 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193829 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193829 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193829 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193829 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193829.wav	1
+data/rawdata/audio\rotate\20210524-193830 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193830 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193830 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193830 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193830 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193830.wav	1
+data/rawdata/audio\rotate\20210524-193831 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193831 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193831 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193831 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193831 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193831.wav	1
+data/rawdata/audio\rotate\20210524-193832 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193832 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193832 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193832 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193832 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193832.wav	1
+data/rawdata/audio\rotate\20210524-193833 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193833 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193833 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193833 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193833 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193833.wav	1
+data/rawdata/audio\rotate\20210524-193834 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193834 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193834 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193834 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193834 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193834.wav	1
+data/rawdata/audio\rotate\20210524-193835 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193835 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193835 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193835 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193835 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193835.wav	1
+data/rawdata/audio\rotate\20210524-193836 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193836 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193836 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193836 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193836 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193836.wav	1
+data/rawdata/audio\rotate\20210524-193837 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193837 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193837 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193837 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193837 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193837.wav	1
+data/rawdata/audio\rotate\20210524-193838 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193838 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193838 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193838 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193838 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193838.wav	1
+data/rawdata/audio\rotate\20210524-193839 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193839 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193839 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193839 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193839 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193839.wav	1
+data/rawdata/audio\rotate\20210524-193840 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193840 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193840 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193840 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193840 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193840.wav	1
+data/rawdata/audio\rotate\20210524-193841 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193841 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193841 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193841 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193841 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193841.wav	1
+data/rawdata/audio\rotate\20210524-193842 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193842 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193842 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193842 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193842 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193842.wav	1
+data/rawdata/audio\rotate\20210524-193843 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193843 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193843 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193843 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193843 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193843.wav	1
+data/rawdata/audio\rotate\20210524-193844 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193844 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193844 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193844 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193844 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193844.wav	1
+data/rawdata/audio\rotate\20210524-193845 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193845 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193845 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193845 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193845 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193845.wav	1
+data/rawdata/audio\rotate\20210524-193846 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193846 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193846 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193846 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193846 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193846.wav	1
+data/rawdata/audio\rotate\20210524-193847 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193847 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193847 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193847 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193847 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193847.wav	1
+data/rawdata/audio\rotate\20210524-193848 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193848 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193848 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193848 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193848 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193848.wav	1
+data/rawdata/audio\rotate\20210524-193849 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193849 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193849 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193849 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193849 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193849.wav	1
+data/rawdata/audio\rotate\20210524-193850 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193850 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193850 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193850 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193850 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193850.wav	1
+data/rawdata/audio\rotate\20210524-193851 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193851 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193851 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193851 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193851 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193851.wav	1
+data/rawdata/audio\rotate\20210524-193852 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193852 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193852 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193852 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193852 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193852.wav	1
+data/rawdata/audio\rotate\20210524-193853 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193853 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193853 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193853 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193853 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193853.wav	1
+data/rawdata/audio\rotate\20210524-193854 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193854 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193854 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193854 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193854 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193854.wav	1
+data/rawdata/audio\rotate\20210524-193855 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193855 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193855 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193855 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193855 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193855.wav	1
+data/rawdata/audio\rotate\20210524-193856 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193856 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193856 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193856 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193856 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193856.wav	1
+data/rawdata/audio\rotate\20210524-193857 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193857 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193857 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193857 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193857 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193857.wav	1
+data/rawdata/audio\rotate\20210524-193858 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193858 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193858 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193858 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193858 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193858.wav	1
+data/rawdata/audio\rotate\20210524-193859 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193859 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193859 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193859 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193859 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193859.wav	1
+data/rawdata/audio\rotate\20210524-193900 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193900 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193900 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193900 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193900 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193900.wav	1
+data/rawdata/audio\rotate\20210524-193901 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193901 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193901 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193901 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193901 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193901.wav	1
+data/rawdata/audio\rotate\20210524-193903 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193903 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193903 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193903 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193903 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193903.wav	1
+data/rawdata/audio\rotate\20210524-193904 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193904 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193904 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193904 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193904 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193904.wav	1
+data/rawdata/audio\rotate\20210524-193905 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193905 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193905 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193905 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193905 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193905.wav	1
+data/rawdata/audio\rotate\20210524-193906 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193906 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193906 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193906 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193906 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193906.wav	1
+data/rawdata/audio\rotate\20210524-193907 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193907 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193907 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193907 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193907 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193907.wav	1
+data/rawdata/audio\rotate\20210524-193908 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193908 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193908 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193908 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193908 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193908.wav	1
+data/rawdata/audio\rotate\20210524-193909 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193909 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193909 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193909 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193909 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193909.wav	1
+data/rawdata/audio\rotate\20210524-193910 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193910 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193910 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193910 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193910 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193910.wav	1
+data/rawdata/audio\rotate\20210524-193911 - Copy (2) - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193911 - Copy (2).wav	1
+data/rawdata/audio\rotate\20210524-193911 - Copy (3).wav	1
+data/rawdata/audio\rotate\20210524-193911 - Copy - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193911 - Copy.wav	1
+data/rawdata/audio\rotate\20210524-193911.wav	1

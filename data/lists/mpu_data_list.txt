@@ -1,0 +1,69 @@
+data/rawdata/mpu\open\20210518-132559.txt	0
+data/rawdata/mpu\open\20210518-132713.txt	0
+data/rawdata/mpu\open\20210518-132822.txt	0
+data/rawdata/mpu\open\20210518-132932.txt	0
+data/rawdata/mpu\open\20210518-134127.txt	0
+data/rawdata/mpu\open\20210518-134324.txt	0
+data/rawdata/mpu\open\20210518-134508.txt	0
+data/rawdata/mpu\open\20210518-134933.txt	0
+data/rawdata/mpu\open\20210518-135111.txt	0
+data/rawdata/mpu\open\20210518-135256.txt	0
+data/rawdata/mpu\open\20210518-153005.txt	0
+data/rawdata/mpu\open\20210523-190716.txt	0
+data/rawdata/mpu\open\20210523-190920.txt	0
+data/rawdata/mpu\open\20210523-191250 - Copy (2).txt	0
+data/rawdata/mpu\open\20210523-191250 - Copy (3).txt	0
+data/rawdata/mpu\open\20210523-191250 - Copy (4).txt	0
+data/rawdata/mpu\open\20210523-191250 - Copy.txt	0
+data/rawdata/mpu\open\20210523-191250.txt	0
+data/rawdata/mpu\open\20210523-191322 - Copy (2).txt	0
+data/rawdata/mpu\open\20210523-191322 - Copy (3).txt	0
+data/rawdata/mpu\open\20210523-191322 - Copy (4).txt	0
+data/rawdata/mpu\open\20210523-191322 - Copy.txt	0
+data/rawdata/mpu\open\20210523-191322.txt	0
+data/rawdata/mpu\open\20210523-191401.txt	0
+data/rawdata/mpu\open\20210523-191421.txt	0
+data/rawdata/mpu\open\20210523-191447.txt	0
+data/rawdata/mpu\open\20210523-191502.txt	0
+data/rawdata/mpu\open\20210523-191516.txt	0
+data/rawdata/mpu\open\20210523-191532.txt	0
+data/rawdata/mpu\open\20210523-191545.txt	0
+data/rawdata/mpu\open\20210523-191600.txt	0
+data/rawdata/mpu\open\20210523-191615.txt	0
+data/rawdata/mpu\open\20210523-191625.txt	0
+data/rawdata/mpu\open\20210523-191641.txt	0
+data/rawdata/mpu\open\20210523-191652 - Copy.txt	0
+data/rawdata/mpu\open\20210523-191652.txt	0
+data/rawdata/mpu\open\20210523-191856.txt	0
+data/rawdata/mpu\open\20210523-191908.txt	0
+data/rawdata/mpu\open\20210523-202505.txt	0
+data/rawdata/mpu\open\20210523-202743.txt	0
+data/rawdata/mpu\open\20210523-204843 - Copy.txt	0
+data/rawdata/mpu\open\20210523-204843.txt	0
+data/rawdata/mpu\open\20210523-204844 - Copy.txt	0
+data/rawdata/mpu\open\20210523-204844.txt	0
+data/rawdata/mpu\open\20210523-205124.txt	0
+data/rawdata/mpu\open\20210523-205125 - Copy.txt	0
+data/rawdata/mpu\open\20210523-205125.txt	0
+data/rawdata/mpu\rotate\20210518-133113 - Copy.txt	1
+data/rawdata/mpu\rotate\20210518-133113.txt	1
+data/rawdata/mpu\rotate\20210518-133258.txt	1
+data/rawdata/mpu\rotate\20210518-133441.txt	1
+data/rawdata/mpu\rotate\20210518-133627.txt	1
+data/rawdata/mpu\rotate\20210518-133811.txt	1
+data/rawdata/mpu\rotate\20210523-190118.txt	1
+data/rawdata/mpu\rotate\20210523-190319.txt	1
+data/rawdata/mpu\rotate\20210523-190526.txt	1
+data/rawdata/mpu\rotate\20210523-193624.txt	1
+data/rawdata/mpu\rotate\20210523-193811.txt	1
+data/rawdata/mpu\rotate\20210523-193957.txt	1
+data/rawdata/mpu\rotate\20210523-195509.txt	1
+data/rawdata/mpu\rotate\20210523-202505.txt	1
+data/rawdata/mpu\rotate\20210523-202743.txt	1
+data/rawdata/mpu\rotate\20210523-204843.txt	1
+data/rawdata/mpu\rotate\20210523-204844.txt	1
+data/rawdata/mpu\rotate\20210523-204845.txt	1
+data/rawdata/mpu\rotate\20210523-205124.txt	1
+data/rawdata/mpu\rotate\20210523-205125.txt	1
+data/rawdata/mpu\rotate\20210523-205126 - Copy.txt	1
+data/rawdata/mpu\rotate\20210523-205126.txt	1
