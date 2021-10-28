@@ -104,19 +104,24 @@ class SENAI(nn.Module):
         for batch_id, data in enumerate(self.train_dataset):
             datas = torch.tensor(data['data'].numpy().reshape((-1, 1, 128, 77)))
             labels = torch.tensor(data['label'].numpy()).view(-1, 1).float()
-            out1, out2, out = self.model(datas)
-            self.loss = self.loss_function(out, labels)
+            audio_out, mpu_out, svm_out = self.model(datas)
+            svm_loss = self.loss_function(svm_out, labels)
+            mpu_loss = self.loss_function(audio_out, labels)
+            audio_loss = self.loss_function(mpu_out, labels)
+            self.loss = svm_loss + mpu_loss + audio_loss
+
             self.optimizer.zero_grad()
             self.loss.backward()
             self.optimizer.step()
 
             if batch_id % 10 == 0:
-                correct = (out.ge(0.5) == labels).sum().item()
-                accuracy = correct / labels.shape[0]
-                print('Epoch:', batch_id, "Loss:%.5f" % self.loss, "Accuracy:", accuracy)
+                svm_correct = (svm_out.ge(0.5) == labels).sum().item()
+                svm_accuracy = svm_correct / labels.shape[0]
+                print('Epoch:', batch_id, "Loss:%.5f" % self.loss, "Accuracy:", svm_accuracy)
+
             if batch_id % 100 == 0:
-                test_losses = list()
-                test_accuracies = list()
+                svm_losses = list()
+                svm_accuracies = list()
                 audio_losses = list()
                 audio_accuracies = list()
                 mpu_losses = list()
@@ -124,12 +129,13 @@ class SENAI(nn.Module):
                 for batch_id, data in enumerate(self.test_dataset):
                     datas = torch.tensor(data['data'].numpy().reshape((-1, 1, 128, 77)))
                     labels = torch.tensor(data['label'].numpy()).view(-1, 1).float()
-                    audio_out, mpu_out, out = self.model(datas)
-                    self.loss = self.loss_function(out, labels)
-                    correct = (out.ge(0.5) == labels).sum().item()
-                    accuracy = correct / labels.shape[0]
-                    test_losses.append(self.loss)
-                    test_accuracies.append(accuracy)
+                    audio_out, mpu_out, svm_out = self.model(datas)
+
+                    svm_loss = self.loss_function(svm_out, labels)
+                    svm_correct = (svm_out.ge(0.5) == labels).sum().item()
+                    svm_accuracy = svm_correct / labels.shape[0]
+                    svm_losses.append(svm_loss)
+                    svm_accuracies.append(svm_accuracy)
 
                     audio_loss = self.loss_function(audio_out, labels)
                     audio_correct = (audio_out.ge(0.5) == labels).sum().item()
@@ -144,7 +150,7 @@ class SENAI(nn.Module):
                     mpu_accuracies.append(mpu_accuracy)
                 print('=================================================')
                 print("SVM, Loss %f, Accuracy %f" % (
-                    sum(test_losses) / len(test_losses), sum(test_accuracies) / len(test_accuracies)))
+                    sum(svm_losses) / len(svm_losses), sum(svm_accuracies) / len(svm_accuracies)))
                 print("MIC, Loss %f, Accuracy %f" % (
                     sum(audio_losses) / len(audio_losses), sum(audio_accuracies) / len(audio_accuracies)))
                 print("MPU, Loss %f, Accuracy %f" % (
